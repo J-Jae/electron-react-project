@@ -1,3 +1,9 @@
+## Start App
+
+yarn react-start
+yarn electron-start
+yarn electron-pack : build App
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +50,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+https://www.fiveminutesdev.com/react%ec%99%80-electronjs%eb%a1%9c-%eb%8d%b0%ec%8a%a4%ed%81%ac%ed%86%b1-%ec%95%b1-%eb%a7%8c%eb%93%a4%ec%96%b4%eb%b3%b4%ea%b8%b0-2-%eb%9d%bc%ec%9a%b0%ed%8c%85/
