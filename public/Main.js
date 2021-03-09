@@ -8,7 +8,11 @@ function createWindow() {
     * */
     const win = new BrowserWindow({
         width:1280,
-        height:720
+        height:720,
+        // nodeJS API를 사용 가능하게하는 코드입니다.
+        webPreferences: {
+            nodeIntegration: true,
+        }
     });
 
     /*
